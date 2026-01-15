@@ -46,7 +46,7 @@
         nav {
             display-name = "NAV";
             bindings = <
-&trans  &trans  &trans  &trans  &kp K_SCROLL_UP  &kp K_SCROLL_DOWN  &kp LC(H)  &kp HOME  &kp UP_ARROW  &kp END  &trans  &trans  &trans  &kp LC(A)  &trans  &mkp MCLK  &mkp LCLK  &mkp RCLK  &kp LC(F)  &kp DOWN  &kp UP  &kp RIGHT  &trans  &trans  &trans  &kp LC(Z)  &kp LC(Y)  &kp LC(X)  &kp LC(C)  &kp LC(V)  &Paste_Special  &Border  &kp LS(F2)  &kp PAGE_UP  &kp PAGE_DOWN  &trans  &trans  &kp SPACE  &kp DELETE  &kp TAB  &kp ENTER  &mo 3
+&trans  &trans  &trans  &trans  &kp K_SCROLL_UP  &kp K_SCROLL_DOWN  &kp LC(H)  &kp HOME  &kp UP_ARROW  &kp END  &trans  &trans  &trans  &kp LC(A)  &trans  &mkp MCLK  &mkp LCLK  &mkp RCLK  &kp LC(F)  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT  &trans  &trans  &trans  &kp LC(Z)  &kp LC(Y)  &kp LC(X)  &kp LC(C)  &kp LC(V)  &Paste_Special  &Border  &kp LS(F2)  &kp PAGE_UP  &kp PAGE_DOWN  &trans  &trans  &kp SPACE  &kp DELETE  &kp TAB  &kp ENTER  &mo 3
             >;
         };
 
