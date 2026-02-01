@@ -36,7 +36,7 @@
                 &trans     &trans     &trans       &trans        &trans     &trans       &kp LC(H) &kp HOME &kp UP     &kp END    &trans     &studio_unlock
                 &kp LSHFT  &trans     &trans       &trans        &trans     &trans       &kp LC(F) &kp LEFT &kp DOWN   &kp RIGHT  &trans     &trans
                 &kp LCTRL  &kp LC(Z)  &kp LC(Y)    &kp LC(X)     &kp LC(C)  &kp LC(V)    &trans    &trans   &kp LS(F2) &kp PG_UP  &kp PG_DN  &trans
-                                                   &trans        &kp SPACE  &kp DEL      &kp TAB   &kp RET  &mo 3
+                                                   &trans        &kp SPACE  &kp DEL      &kp TAB   &kp RET  &trans
             >;
         };
 
