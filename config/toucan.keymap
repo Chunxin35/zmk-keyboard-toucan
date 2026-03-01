@@ -10,6 +10,12 @@
 #define ADJ  3
 
 / {
+    aliases {
+        led-red = &led_red;
+        led-green = &led_green;
+        led-blue = &led_blue;
+    };
+
     conditional_layers {
         compatible = "zmk,conditional-layers";
         tri_layer {
